@@ -1,3 +1,6 @@
-this is the First Class cs file. 
+class FirstClass
+{
+	this is the First Class cs file. 
 
-Plain n simple, ain't it!
+	Plain n simple, ain't it!
+}
