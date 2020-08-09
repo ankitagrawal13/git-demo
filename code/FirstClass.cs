@@ -1,4 +1,4 @@
-class FirstClass
+public class FirstClass
 {
 	this is the First Class cs file. 
 
